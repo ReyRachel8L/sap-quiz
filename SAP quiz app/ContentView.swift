@@ -78,7 +78,7 @@ struct ContentView: View {
                         }
                         .frame(width: 100, height: 50)
                         .padding(20)
-                        .background(.blue)
+                        .background(.cyan)
                         .foregroundColor(.white)
                         .cornerRadius(10)
                         
@@ -92,7 +92,7 @@ struct ContentView: View {
                         }
                         .frame(width: 100, height: 50)
                         .padding(20)
-                        .background(.red)
+                        .background(.pink)
                         .foregroundColor(.white)
                         .cornerRadius(10)
                         
